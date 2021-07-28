@@ -1,3 +1,3 @@
 # Kakao Messenger Clone 2021
 
-HTML & CSS are so much fun!
+check: https://junyeon1997.github.io/kakao-messenger-clone-2021/
